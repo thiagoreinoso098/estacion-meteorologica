@@ -9,9 +9,9 @@
 
 ## 📂 Estructura del Proyecto
 
-* 📊 **analisis_ipynb/**: Prototipado y limpieza de datos usando Google Colab.
-* 🤖 **arduino_ino/**: Código fuente (.ino) para el microcontrolador Arduino UNO R3.
-* 📈 **dashboard_pbix/**: Reportes interactivos creados en Power BI.
-* 🗄️ **database_sql/**: Scripts de creación y carga de tablas en MySQL Workbench.
-* 📄 **docs/**: Documentación técnica, manuales y licencias de software.
-* 🐍 **python_app/**: Aplicación de escritorio desarrollada con Programación Orientada a Objetos (POO).
+📊 **analisis_ipynb/**: Prototipado y limpieza de datos usando Google Colab.
+🤖 **arduino_ino/**: Código fuente (.ino) para el microcontrolador Arduino UNO R3.
+📈 **dashboard_pbix/**: Reportes interactivos creados en Power BI.
+🗄️ **database_sql/**: Scripts de creación y carga de tablas en MySQL Workbench.
+📄 **docs/**: Documentación técnica, manuales y licencias de software.
+🐍 **python_app/**: Aplicación de escritorio desarrollada con Programación Orientada a Objetos (POO).
