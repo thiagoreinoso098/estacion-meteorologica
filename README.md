@@ -15,3 +15,9 @@
 - 🗄️ **database_sql/**: Scripts de creación y carga de tablas en MySQL Workbench.
 - 📄 **docs/**: Documentación técnica, manuales y licencias de software.
 - 🐍 **python_app/**: Aplicación de escritorio desarrollada con Programación Orientada a Objetos (POO).
+
+## 🛠️ Tecnologías Utilizadas
+💻**GitHub**
+🐍**Python** 
+📝**Markdown** 
+📊**PowerBi**  
