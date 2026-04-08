@@ -16,8 +16,37 @@
 - 📄 **docs/**: Documentación técnica, manuales y licencias de software.
 - 🐍 **python_app/**: Aplicación de escritorio desarrollada con Programación Orientada a Objetos (POO).
 
+
+
 ## 🛠️ Tecnologías Utilizadas
-💻**GitHub**
-🐍**Python** 
-📝**Markdown** 
-📊**PowerBi**  
+
+### 🧪 **Club de Ciencias**
+**Google Colab**: se usa para hacer pruebas rápidas y experimentos con datos climáticos.
+
+**Base de Datos** (MySQL): Guardamos todo el historial del clima.
+
+**Panel Visual** (Power BI): Gráficos interactivos que muestran la temperatura y humedad de forma fácil.
+
+
+### 🐍 **Programación III**
+
+**Pyton**: Nuestro lenguaje principal.
+
+**Conexiones**: Creamos "puentes" de código para enviar los datos del sensor directo a la base de datos.
+
+**VS Code**: Nuestra mesa de trabajo digital donde escribimos cada línea de código.
+
+
+### 🤖 **Robótica** 
+**Arduino**: Controla los sensores físicos.
+
+**Sensores**: Dispositivos que miden cuánto calor hace, la humedad y la presión del aire.
+
+**Tinkercad**: Un laboratorio virtual donde probamos que ningún cable falle antes de armarlo.
+
+
+
+
+
+
+
