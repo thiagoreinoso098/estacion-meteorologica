@@ -7,6 +7,9 @@
 | Reinoso, Thiago | rinnsosoq@gmail.com | [ver perfil](https://github.com/thiagoreinoso098) |
 
 
+ +Proyecto integrador de las materias de la especialidad de 5to año 2026. Usando Arduino, Programacion en Python y Analisis de datos
+
+
 ## 📂 Estructura del Proyecto
 
 - 📊 **analisis_ipynb/**: Prototipado y limpieza de datos usando Google Colab.
